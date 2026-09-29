@@ -63,13 +63,28 @@ My degree covers both sides — software and hardware — so I'm comfortable at 
 
 ---
 
-### GitHub stats
+### By the numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Farhad054&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://img.shields.io/badge/Q--learning_vs_baseline-3.9×_throughput-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Videos_validated-500+-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Internships-3_companies_·_4_summers-0A66C2?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad054&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
+  <img src="https://img.shields.io/badge/Review_cadence-3/7/21_day_(SM--2)-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Languages-11-ED8B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graduating-Apr_2027-06B6D4?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=6DB33F&center=true&vCenter=true&width=620&lines=Shipping+Spring+Boot+%2B+React+in+prod;Teaching+ants+to+forage+with+Q-learning;Fighting+YouTube+misinformation+with+HHI;Comfortable+from+TypeScript+down+to+VHDL"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Farhad054/Farhad054/output/snake-dark.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Farhad054/Farhad054/output/snake.svg">
+  </picture>
 </p>
 
 ---
